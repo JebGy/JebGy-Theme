@@ -3,5 +3,5 @@ display-name = "Jeb-Theme"
 description = "The JebGy Theme for Lapce"
 version = "0.1.3"
 author = "JebGy"
-repository = "lapce/jeb-theme"
+repository = "JebGy/JebGy-Theme"
 themes = ["jeb-theme.toml"]
