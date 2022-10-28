@@ -1,0 +1,26 @@
+name = "jeb-theme"
+version = "0.1.0"
+author = JebGy"
+display-name = "JebGy"
+description = "The JebGy theme for Lapce"
+wasm = "lapce-rust.wasm"
+
+[activation]
+language = ["rust"]
+workspace-contains = ["*/Cargo.toml"]
+
+[config."serverPath"]
+default = ""
+description = "Path to rust-analyzer executable. When empty, it points to the bundled binary."
+
+[config."diagnostics.enable"]
+default = true
+description = "Whether to show native rust-analyzer diagnostics."
+
+[config."diagnostics.experimental.enable"]
+default = true
+description = "Whether to show native rust-analyzer diagnostics."
+
+[config."checkOnSave.command"]
+default = "check"
+description = "Cargo command to use for `cargo check`."
