@@ -1,10 +1,6 @@
-name = "jeb-dark"
+name = "Jeb-Theme"
 version = "0.1.0"
 author = "JebGy"
 display-name = "Jeb-Theme"
 description = "The JebGy theme for Lapce"
 wasm = "lapce-rust.wasm"
-
-[activation]
-language = ["rust"]
-workspace-contains = ["*/Cargo.toml"]
