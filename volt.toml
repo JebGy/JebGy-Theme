@@ -1,7 +1,7 @@
 name = "jeb-theme"
 version = "0.1.0"
-author = JebGy"
-display-name = "JebGy"
+author = "JebGy"
+display-name = "Jeb-Theme"
 description = "The JebGy theme for Lapce"
 wasm = "lapce-rust.wasm"
 
