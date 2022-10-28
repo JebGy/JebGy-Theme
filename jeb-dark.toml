@@ -13,16 +13,16 @@ drop-shadow-width = 1
 
 [theme.base]
 white = "#ABB2BF"
-black = "#282C34"
-grey = "#3E4451"
-blue = "#61AFEF"
-red = "#E06C75"
-yellow = "#E5C07B"
-orange = "#D19A66"
-green = "#98C379"
-purple = "#C678DD"
-cyan = "#56B6C2"
-magenta = "#C678DD"
+black = "#43485B"
+grey = "#818591"
+blue = "#82CBE4"
+red = "#7A0009"
+yellow = "#F5F16D"
+orange = "#FFBA6D"
+green = "#A8D9C7"
+purple = "#9052B3"
+cyan = "#85FFF6"
+magenta = "#B35290"
 
 [theme.syntax]
 "comment" = "#5C6370"
