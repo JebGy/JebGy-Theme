@@ -1,2 +1,2 @@
-# JebGy-Theme
-Theme for Lapce Code Editor
+# Jeb-Theme
+- jeb-dark

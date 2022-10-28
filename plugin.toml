@@ -1,0 +1,7 @@
+name = "jeb-theme"
+display-name = "Jeb-Theme"
+description = "The JebGy Theme for Lapce"
+version = "0.1.0"
+author = "JebGy"
+repository = "lapce/jeb-theme"
+themes = ["jeb-dark.toml"]
